@@ -182,19 +182,21 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 }
 
 .single-team {
-    width: 360px;
-    height: 400px;
+    width: 389px;
+    height: 304px;
     padding: 24px;
     background: #fff;
     position: relative;
-    display: flex;
+    display: inline;
     align-items: flex-end;
     transition: .6s ease-out;
     box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+    margin: 8px 0 8px 0;
 }
 
 .single-team:hover {
     transform: translateY(15px);
+    /* text-align: center; */
 }
 
 .single-team:hover:before {
@@ -204,6 +206,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 .single-team:hover .team-text {
     opacity: 1;
     transform: translateY(0);
+    /* text-align: center; */
 }
 
 .single-team:before {
@@ -246,13 +249,13 @@ figure.effect-zoe:hover p.icon-links a:first-child {
     text-align: center;
 }
 
-/* .team-text p {
+.team-text p {
     letter-spacing: 1px;
     font-size: 15px;
     margin-top: 8px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-} */
+}
 
 .team-text a {
     width: 60px;
@@ -262,5 +265,6 @@ figure.effect-zoe:hover p.icon-links a:first-child {
     border-radius: 50%; */
     margin: 0 5px;
     text-decoration: none;
+    /* text-align: center; */
 }
 
