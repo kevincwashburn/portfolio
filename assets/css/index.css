@@ -196,7 +196,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 
 .single-team:hover {
     transform: translateY(15px);
-    /* text-align: center; */
+    
 }
 
 .single-team:hover:before {
@@ -206,7 +206,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 .single-team:hover .team-text {
     opacity: 1;
     transform: translateY(0);
-    /* text-align: center; */
+    
 }
 
 .single-team:before {
@@ -229,7 +229,8 @@ figure.effect-zoe:hover p.icon-links a:first-child {
     position: absolute;
     top: 0;
     left: 0;
-    object-fit: cover;
+    object-fit: fill;
+    /* object-fit was originally set to 'cover' */
 }
 
 .single-team .team-text {
@@ -240,6 +241,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
     transform: translateY(60px);
     transition: 0.5s;
     text-align: center;
+    top: 35%;
 }
 
 .team-text h2 {
