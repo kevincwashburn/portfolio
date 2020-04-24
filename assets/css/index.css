@@ -110,3 +110,7 @@
     /* text-align: center; */
 }
 
+#contact-form {
+    margin: 0 auto;
+    width: 50%;
+}
