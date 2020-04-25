@@ -9,6 +9,10 @@
     box-shadow: 0 0 11px rgba(56, 38, 216, 0.644);
 } */
 
+body {
+    background-color: black;
+}
+
 .tech-icon {
     width: 64px;
     height: 72px;
