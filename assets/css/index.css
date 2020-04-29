@@ -140,6 +140,10 @@ body {
     width: 50%;
 }
 
+label {
+    color: white;
+}
+
 /* .attribution {
     font-size: 10px;
 } */
