@@ -20,6 +20,10 @@ body {
     background: #262626;
 }
 
+.display-4 {
+    color: white;
+}
+
 .tech-icon {
     width: 64px;
     height: 72px;
