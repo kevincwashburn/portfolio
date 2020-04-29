@@ -24,6 +24,11 @@ body {
     color: white;
 }
 
+.img-fluid {
+    width: 280px;
+    height: 280px;
+}
+
 .tech-icon {
     width: 64px;
     height: 72px;
