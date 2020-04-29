@@ -20,7 +20,7 @@ body {
     background: #262626;
 }
 
-.display-4 {
+.display-4, h1, h2, h3, h4, h5, p {
     color: white;
 }
 
@@ -135,6 +135,10 @@ body {
     width: 50%;
 }
 
-.attribution {
+/* .attribution {
     font-size: 10px;
+} */
+
+.footer-text {
+    color: white;
 }
