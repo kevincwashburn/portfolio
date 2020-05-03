@@ -112,7 +112,7 @@ body {
     transition: 0.5s;
     text-align: center;
     top: 10%;
-    text-shadow: 1px 1px 1px gray;
+    text-shadow: 0.5px 0.5px 1px gray;
 }
 
 .team-text h2 {
