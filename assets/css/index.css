@@ -111,7 +111,7 @@ body {
     transform: translateY(60px);
     transition: 0.5s;
     text-align: center;
-    top: 35%;
+    top: 10%;
 }
 
 .team-text h2 {
