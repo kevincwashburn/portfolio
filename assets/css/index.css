@@ -27,7 +27,7 @@ body {
     text-align: center;
 }
 
-.team-area {
+.tile-row {
     display: flex;
     /* width: 90%; */
     justify-content: space-around;
