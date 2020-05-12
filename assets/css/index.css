@@ -55,7 +55,7 @@ body {
     opacity: 1;
 }
 
-.single-tile:hover .team-text {
+.single-tile:hover .tile-text {
     opacity: 1;
     transform: translateY(0);
     
