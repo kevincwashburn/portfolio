@@ -8,9 +8,18 @@ body {
     background-color: #161616;
 }
 
+.logo {
+    height: 5%;
+    width: 5%;
+}
+
 .display-4, h1, h2, h3, h4, h5, p {
     color: white;
     font-family: 'Quicksand', sans-serif;
+}
+
+.roboto-text {
+    font-family: 'Roboto Slab', serif;
 }
 
 .img-fluid {
