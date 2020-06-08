@@ -22,6 +22,10 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
+p {
+    text-align: center;
+}
+
 .img-fluid {
     width: 280px;
     height: 280px;
